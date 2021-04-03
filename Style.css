@@ -1,4 +1,8 @@
-  
+body {
+  background-size: contain;
+  background-color: azure;
+
+}  
   h1 {
     display: flex;
     justify-content: center;
