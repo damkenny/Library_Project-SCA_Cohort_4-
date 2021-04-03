@@ -8,6 +8,6 @@ and
          
      <script src="Script.js"></script>
      
- Also worked extensively on styling this project library website by making add stlye and color using my .css file.
+ Also worked extensively on styling this project library website by adding stlye and color using my .css file.
  
  
