@@ -1,5 +1,7 @@
 # Library_Project-SCA_Cohort_4
 
+This project is a small Library app.
+
 I learned how to input the .js file and style.css file into my html file by using link and href
 
     <link rel="stylesheet" href="Style.css">
